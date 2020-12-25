@@ -1,2 +1,2 @@
 # 1st-example
-this 1st repository
+this is 1st repository
